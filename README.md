@@ -1,18 +1,19 @@
+
 # 📚 Lista de Exercícios I
 
 Exercícios básicos de **entrada**, **saída**, **operações matemáticas** e **estruturas condicionais** em linguagem de programação.
 
 ---
 
-## 📁 Índice
+## 📑 Índice
 
-- [Entrada, Saída e Operações Básicas](#entrada-saída-e-operações-básicas)
-- [Estruturas Condicionais](#estruturas-condicionais)
-- [Objetivo](#objetivo)
+- [Entrada, Saída e Operações Básicas]
+- [Estruturas Condicionais]
+- [Objetivo]
 
 ---
 
-## 📥 Entrada, 📤 Saída e ➖ Operações Básicas
+## 📥 Entrada, 📤 Saída e ➗ Operações Básicas
 
 | Nº | Descrição |
 |:---:|:-----------|
@@ -41,3 +42,17 @@ Exercícios básicos de **entrada**, **saída**, **operações matemáticas** e 
 | 16 | **Notas Válidas:** Leia duas notas e: calcule a média se válidas ou informe erro se inválidas. |
 
 ---
+
+## 🎯 Objetivo
+
+Desenvolver a lógica de programação através da prática com problemas básicos de:
+
+- Entrada e saída de dados
+- Operações matemáticas simples
+- Aplicação de estruturas de decisão (`if`, `else`, `else if`)
+
+---
+
+## 🛠️ Tecnologias
+
+- Linguagem: C 
