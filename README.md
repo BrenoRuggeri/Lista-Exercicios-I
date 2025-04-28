@@ -1,26 +1,43 @@
-# Lista-Exercicios-I
+# 📚 Lista de Exercícios I
 
-Lista de exercícios I
+Exercícios básicos de **entrada**, **saída**, **operações matemáticas** e **estruturas condicionais** em linguagem de programação.
 
-# Entrada, Saída e Operações Básicas
+---
 
-1. Faça um programa que leia seu nome e o imprima
-2. Exibir um número inteiro: Leia um número inteiro e mostre na tela.
-3. Exibir um número real: Leia um número real e mostre na tela.
-4. Soma de três números: Peça três números inteiros ao usuário e exiba a soma.
-5. Quadrado de um número: Leia um número real e exiba o seu quadrado.
-6. Média de quatro notas: Leia quatro notas e exiba a média aritmética.
-7. Sucessor: Leia um número inteiro e exiba seu sucessor.
+## 📁 Índice
 
-# Estruturas Condicionais
+- [Entrada, Saída e Operações Básicas](#entrada-saída-e-operações-básicas)
+- [Estruturas Condicionais](#estruturas-condicionais)
+- [Objetivo](#objetivo)
 
-8. Maior número: Leia dois números e exiba o maior.
-9. Leia um número inteiro e informe se ele é positivo, negativo.
-10. Leia três números inteiros e exiba o menor deles.
-11. Leia um número inteiro e exiba se ele é positivo, negativo ou zero.
-12. Leia um número inteiro e informe se ele é par ou ímpar.
-13. Leia dois números inteiros e exiba o maior. Se forem iguais, informe que são iguais.
-14. Leia três números inteiros e exiba o maior deles.
-15. Leia a idade de uma pessoa e informe se ela é maior ou menor de idade.
-16. Leia duas notas de um aluno e verifique se as notas são válidas. Se forem, calcule e exiba a
-média. Caso contrário, informe que a nota é inválida.
+---
+
+## 📥 Entrada, 📤 Saída e ➖ Operações Básicas
+
+| Nº | Descrição |
+|:---:|:-----------|
+| 1 | **Imprimir Nome:** Leia seu nome e exiba-o na tela. |
+| 2 | **Exibir Número Inteiro:** Leia um número inteiro e mostre-o. |
+| 3 | **Exibir Número Real:** Leia um número real e mostre-o. |
+| 4 | **Soma de Três Números:** Solicite três números inteiros e exiba a soma. |
+| 5 | **Quadrado de um Número:** Leia um número real e exiba seu quadrado. |
+| 6 | **Média de Quatro Notas:** Leia quatro notas e calcule a média aritmética. |
+| 7 | **Sucessor:** Leia um número inteiro e exiba seu sucessor. |
+
+---
+
+## 🔀 Estruturas Condicionais
+
+| Nº | Descrição |
+|:---:|:-----------|
+| 8 | **Maior Número:** Leia dois números e exiba o maior deles. |
+| 9 | **Positivo ou Negativo:** Leia um número inteiro e informe se ele é positivo ou negativo. |
+| 10 | **Menor de Três Números:** Leia três números inteiros e exiba o menor. |
+| 11 | **Positivo, Negativo ou Zero:** Leia um número e classifique-o. |
+| 12 | **Par ou Ímpar:** Leia um número inteiro e informe se é par ou ímpar. |
+| 13 | **Maior ou Igual:** Leia dois números inteiros e exiba o maior, ou informe se são iguais. |
+| 14 | **Maior de Três Números:** Leia três números inteiros e exiba o maior deles. |
+| 15 | **Maioridade:** Leia a idade de uma pessoa e informe se ela é maior ou menor de idade. |
+| 16 | **Notas Válidas:** Leia duas notas e: calcule a média se válidas ou informe erro se inválidas. |
+
+---
